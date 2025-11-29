@@ -59,7 +59,6 @@ WORLD = {
     "intro": {
         "title": "A Shadow over Brinmere",
         "desc": (
-            "You awake on the damp shore of Brinmere, the moon a thin silver crescent. "
             "A ruined watchtower smolders a short distance inland, and a narrow path leads "
             "towards a cluster of cottages to the east. In the water beside you lies a "
             "small, carved wooden box, half-buried in sand."
